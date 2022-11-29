@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Alex has a cat
 Adding new experimental functioanality
+=======
+>>>>>>> parent of a180a8d (Second change in the file.txt)
